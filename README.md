@@ -15,9 +15,9 @@ Bem-vindo ao meu GitHub! Aqui você encontrará projetos, experimentos e colabor
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
 
 ## 👤 Onde me Encontrar
-- 🌐 [Meu Site](https://seusite.com)
-- 💌 [E-mail](mailto:seuemail@example.com)
-- 👨‍💻 [LinkedIn](https://www.linkedin.com/in/seu-usuario/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-oliveira-89104831b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo.oliveir4_/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](eduardo.oliveira23100@gmail.com)
+---
 Se gostou de algum projeto, não esqueça de dar uma ⭐ e contribuir! Obrigado pela visita. ✨
 
